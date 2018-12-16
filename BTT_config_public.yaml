@@ -1,0 +1,5 @@
+# Plex Params
+
+Plex:
+  token: "<Token_here>"
+  ip: "XXX.XXX.XXX.XXX"
